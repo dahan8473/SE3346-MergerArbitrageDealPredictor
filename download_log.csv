@@ -10,3 +10,7 @@ date,person,terminal_no,platform,screen_or_formula,filters,ann_date_range,count_
 2026-10-26,Daniel,7,LSEG-SDC,"MAP CS3346 (Request 10, MAP Columns)",US tgt;public tgt;merger+majority;status C/P/PartC/Unknown/W;seek>=50%;held<50%;value>=50M (null kept);NO cash filter,2023-01-01..2023-12-31,238,238,2326,SDC Platinum/2023.xlsx,local: vault Group Project/raw data (not yet on OneDrive),,cash filter applied offline
 2026-10-26,Daniel,7,LSEG-SDC,"MAP CS3346 (Request 10, MAP Columns)",US tgt;public tgt;merger+majority;status C/P/PartC/Unknown/W;seek>=50%;held<50%;value>=50M (null kept);NO cash filter,2024-01-01..2024-12-31,241,241,2567,SDC Platinum/2024.xlsx,local: vault Group Project/raw data (not yet on OneDrive),,cash filter applied offline; Bloomberg cross-check next
 2026-10-26,Daniel,7,BBG-MA,MA <GO> Advanced Search export (sheet ma_export_33686172_215420),observed in file only: deal type M&A;payment Cash;status C/W/Terminated/P;value>=50M; target US/public not recorded,2015-01-12..2024-12-30 (observed),,1438,,Bloomberg/Bloomberg Export.xlsx,local: vault Group Project/raw data (not yet on OneDrive),no session record; screen count unknown,price pull (2c) not done; terminal_no unknown
+2026-11-13,Daniel,,GitHub,https://github.com/danielruss/codingsystems/blob/main/sic1987_all.csv,1513,sic1987_all.csv,,,,1513,,sic1987_all.csv,data/,,match to Target Primary SIC names
+
+
+
